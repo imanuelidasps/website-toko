@@ -6,9 +6,9 @@ section {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background: url(../Images/Banner.png) no-repeat;
+  background: url(Images/Banner.png);
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
 }
 
 #home .content {
